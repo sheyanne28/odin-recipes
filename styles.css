@@ -1,2 +1,11 @@
-.text{background-color: aqua;
-color: palevioletred}
+/* styles.css */
+
+.text{background-color: black;
+color: palevioletred;
+text-align: center;}
+
+div {background-color: black;
+color: palevioletred;}
+
+.button {font-size: large;
+text-align: center;}
